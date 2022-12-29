@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "escape-string-regexp": "^1.0.5",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "sort-by": "^1.2.0"
   },
   "scripts": {
